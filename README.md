@@ -1,2 +1,3 @@
 Tetris 
 
+python main.py
